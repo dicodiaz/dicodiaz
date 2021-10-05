@@ -1,4 +1,4 @@
-![my_banner](./my_banner.png)
+<img src="./my_banner_animated.gif"/>
 
 ## 👨🏻‍💻 About Me
 
@@ -18,14 +18,17 @@
 
 ## 📊 Some statistics
 
-[![dicodiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dicodiaz&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<p float="left">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicodiaz&layout=compact&theme=merko" width="49%"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=dicodiaz&count_private=true&show_icons=true&theme=merko" width="49%"/></a>  
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicodiaz&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">🤝🏻 Connect with Me</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/dico-diaz-dussan-476106a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;<a href="https://twitter.com/DicoDiaz1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-[![dicodiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dicodiaz&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🤝🏻 Connect with Me
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dico-diaz-dussan-476106a6/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DicoDiaz1)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dicodiaz&left_color=gray&right_color=black)
+<p align="center">
+<img src="https://profile-counter.glitch.me/{dicodiaz}/count.svg"/>
+</p>
