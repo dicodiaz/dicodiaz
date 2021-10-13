@@ -3,6 +3,7 @@
 ## 👨🏻‍💻 About Me
 
 - I like experimenting with new technologies and building small projects.
+- I love solving DSA challenges. Hit me up for a peer session at any time!
 - Currently a Microverse student.
 - Electronic engineering graduate with a previous career as a RAN engineer.
 - Looking for new opportunities as a Full Stack Developer.
@@ -19,8 +20,11 @@
 ## 📊 Some statistics
 
 <p float="left">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=dicodiaz&count_private=true&show_icons=true&theme=merko" width="54%"/></a> 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicodiaz&layout=compact&theme=merko" width="44%"/></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=dicodiaz&count_private=true&show_icons=true&theme=merko" width="54%"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicodiaz&layout=compact&theme=merko" width="44%"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://www.codewars.com/users/dicodiaz/badges/micro"/></a>
 </p>
 
 <h2 align="center">🤝🏻 Connect with Me</h2>
