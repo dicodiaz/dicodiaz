@@ -24,7 +24,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicodiaz&layout=compact&theme=merko" width="44%"/></a>
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://www.codewars.com/users/dicodiaz/badges/micro"/></a>
+<a href="https://www.codewars.com/users/dicodiaz" target="_blank"><img src="https://www.codewars.com/users/dicodiaz/badges/micro"/></a>
 </p>
 
 <h2 align="center">🤝🏻 Connect with Me</h2>
