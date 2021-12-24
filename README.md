@@ -6,16 +6,13 @@
 - I love solving DSA challenges. Hit me up for a peer session at any time!
 - Currently a Microverse student.
 - Electronic engineering graduate with a previous career as a RAN engineer.
-- Looking for new opportunities as a Full Stack Developer.
-- Watching movies and taking long walks are my hobbies.
+- Dancing and taking long walks are my hobbies.
 - I believe a day of hiking and nature is the ultimate solution for stress.
 
 ## 🛠 Tech Stack
 
-- JavaScript | Ruby | Rails | React | Redux
-- Java | JDBC | JSF | Java EE | JPA | Spring
-- RSpec | Bootstrap | Capybara | Selenium
-- VSCode | Git
+- JavaScript | React | Redux | Bootstrap | HTML | CSS
+- VSCode | Git | Gitflow
 
 ## 📊 Some statistics
 
@@ -30,6 +27,7 @@
 <h2 align="center">🤝🏻 Connect with Me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/dico-diaz-dussan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/{dicodiaz}/count.svg"/>
