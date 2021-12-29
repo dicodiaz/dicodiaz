@@ -11,7 +11,7 @@
 
 ## 🛠 Tech Stack
 
-- JavaScript | React | Redux | Bootstrap | HTML | CSS
+- JavaScript | React | Redux | Bootstrap | HTML | CSS | Jest
 - VSCode | Git | Gitflow
 
 ## 📊 Some statistics
