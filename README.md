@@ -11,8 +11,9 @@
 
 ## 🛠 Tech Stack
 
-- JavaScript | React | Redux | Bootstrap | HTML | CSS | Jest
-- VSCode | Git | Gitflow
+- JavaScript | TypeScript | React | Redux | MobX | GraphQL | Bootstrap | HTML | CSS | Jest | React Testing Library | Enzyme | Cypress
+- Kotlin
+- VSCode | IntelliJ | Git | Gitflow | Netlify
 
 ## 📊 Some statistics
 
