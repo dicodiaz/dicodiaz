@@ -24,7 +24,9 @@
 <p align="center">
 <a href="https://www.codewars.com/users/dicodiaz" target="_blank"><img src="https://www.codewars.com/users/dicodiaz/badges/micro"/></a>
 </p>
-
+<p align="center">
+<a href="https://wakatime.com/@dicodiaz" target="_blank"><img src="https://wakatime.com/badge/user/ae37c739-e576-40ad-95d5-45c992caa763.svg"/></a>
+</p>
 <h2 align="center">🤝🏻 Connect with Me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/dico-diaz-dussan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
