@@ -2,18 +2,19 @@
 
 ## 👨🏻‍💻 About Me
 
-- I like experimenting with new technologies and building small projects.
-- I love solving DSA challenges. Hit me up for a peer session at any time!
+- I like experimenting with new technologies and building impactful projects.
+- I love solving DSA challenges. Hit me up for a peer session!
 - Currently a Microverse student.
+- 2+ years of experience as a front-end developer.
 - Electronic engineering graduate with a previous career as a RAN engineer.
 - Dancing and taking long walks are my hobbies.
 - I believe a day of hiking and nature is the ultimate solution for stress.
 
 ## 🛠 Tech Stack
 
-- JavaScript | TypeScript | React | Redux | MobX | GraphQL | Bootstrap | HTML | CSS | Jest | React Testing Library | Enzyme | Cypress
-- Kotlin
-- VSCode | IntelliJ | Git | Gitflow | Netlify
+- TypeScript | JavaScript | React | Redux | MobX | GraphQL | Bootstrap | HTML5 | CSS3 | Jest | React Testing Library | Enzyme | Cypress | Vitest
+- Ruby on Rails | Ruby | PostgreSQL | RSpec | Capybara
+- VSCode | Git | Gitflow | Netlify | Render
 
 ## 📊 Some statistics
 
