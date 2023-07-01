@@ -14,7 +14,7 @@
 
 - TypeScript | JavaScript | React | Redux | MobX | GraphQL | Bootstrap | HTML5 | CSS3 | Jest | React Testing Library | Enzyme | Cypress | Vitest
 - Ruby on Rails | Ruby | PostgreSQL | RSpec | Capybara
-- Scrum | VSCode | Git | Gitflow | Netlify | Render
+- VSCode | Git | Gitflow | Netlify | Render
 
 ## 📊 Some statistics
 
