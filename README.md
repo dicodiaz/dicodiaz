@@ -12,9 +12,10 @@
 
 ## 🛠 Tech Stack
 
-- TypeScript | JavaScript | React | Redux | MobX | GraphQL | Bootstrap | HTML5 | CSS3 | Jest | React Testing Library | Enzyme | Cypress | Vitest
-- Ruby on Rails | Ruby | PostgreSQL | RSpec | Capybara
-- VSCode | Git | Gitflow | Netlify | Render
+- React | TypeScript | JavaScript | Redux | MobX | GraphQL | Bootstrap | HTML5 | CSS3 | Jest | Vitest | React Testing Library | Cypress
+- Ruby on Rails | Ruby | PostgreSQL | RSpec | Capybara | Selenium | REST APIs
+- VSCode | Git | Gitflow | Netlify | Render | Heroku
+- Design Patterns | Responsive Design | TDD | Debugging
 
 ## 📊 Some statistics
 
